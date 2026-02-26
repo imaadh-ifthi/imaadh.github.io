@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Imaadh_CV_extended_78jwsbduwbnjwnojno91mkxmk
