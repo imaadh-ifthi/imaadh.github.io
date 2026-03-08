@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /Imaadh_CV_extended_78jwsbduwbnjwnojno91mkxmk
+Disallow: /Contributions to github.com_cepdnaclk_jnc jwebcijewbcjwebocjwebojcbnepcnoew81727
+Disallow: /Cool things_jcnewocnjoenfo2nefou3bnofu32ofuh72wy8189
+Disallow: /Volunteer Contributions to the Faculty of Engineering_cjncdnojbndo1bdou3bdouy297298e79djnqo
